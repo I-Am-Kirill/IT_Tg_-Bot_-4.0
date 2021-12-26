@@ -1,0 +1,30 @@
+{
+  "name": "it_tg_-bot_-4.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macowod/IT_Tg_-Bot_-4.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macowod/IT_Tg_-Bot_-4.0/issues"
+  },
+  "homepage": "https://github.com/macowod/IT_Tg_-Bot_-4.0#readme",
+  "dependencies": {
+    "@evrimfeyyaz/covid-19-api": "^2.0.5",
+    "covid19-api": "^1.2.1",
+    "movie-info": "^2.0.5",
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15",
+    "text-to-speech-js": "^1.1.10"
+  }
+}
